@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1220"
+   height="1351"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="my_test_task.svg"
+   style="enable-background:new"
+   inkscape:export-filename="/home/elena/Документи/Documents/Работа/Designer/27.04.2015test_case/my_test_task.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7224">
+      <stop
+         style="stop-color:#808000;stop-opacity:1"
+         offset="0"
+         id="stop7226" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1"
+         offset="1"
+         id="stop7228" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4189">
+      <stop
+         style="stop-color:#81dc00;stop-opacity:1"
+         offset="0"
+         id="stop4191" />
+      <stop
+         id="stop4197"
+         offset="0.5"
+         style="stop-color:#6d8e00;stop-opacity:1" />
+      <stop
+         style="stop-color:#004000;stop-opacity:1"
+         offset="1"
+         id="stop4193" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4149">
+      <stop
+         style="stop-color:#a38000;stop-opacity:1;"
+         offset="0"
+         id="stop4151" />
+      <stop
+         style="stop-color:#a38000;stop-opacity:0;"
+         offset="1"
+         id="stop4153" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter4753"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         inkscape:collect="always"
+         mode="multiply"
+         in2="BackgroundImage"
+         id="feBlend4755" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter8015"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend8017" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4149"
+       id="radialGradient10904"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.2100908e-7,1.8272501,-2.0000005,2.860335e-7,-4053.9932,-3591.4211)"
+       cx="670"
+       cy="-2363.6282"
+       fx="670"
+       fy="-2363.6282"
+       r="55" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4189"
+       id="radialGradient10906"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.1993803e-6,-0.72727211,1.2727274,1.8319122e-6,4138.7538,-1584.9069)"
+       cx="1109.2499"
+       cy="-2387.5894"
+       fx="1109.2499"
+       fy="-2387.5894"
+       r="55" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7224"
+       id="linearGradient10908"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-20,0)"
+       x1="1080"
+       y1="220"
+       x2="1080"
+       y2="140" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="233.47113"
+     inkscape:cy="709.9679"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-180,3060"
+       id="guide3982" />
+    <inkscape:grid
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       type="xygrid"
+       id="grid8903" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="header"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,298.6378)"
+     style="opacity:0.98999999;display:inline;filter:url(#filter8015)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="main_img"
+     style="display:inline"
+     transform="translate(0,-2089)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="left-side_menu"
+     style="display:inline"
+     transform="translate(0,-2089)" />
+  <g
+     style="display:inline"
+     inkscape:label="main_content"
+     id="g6929"
+     inkscape:groupmode="layer"
+     transform="translate(0,-2089)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="footer"
+     style="display:inline"
+     transform="translate(0,-2089)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="logo_menu"
+     style="display:inline"
+     transform="translate(0,-2089)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="line_footer"
+     style="display:inline"
+     transform="translate(0,-2089)">
+    <g
+       id="g10570"
+       transform="translate(1.145e-5,2100.0056)">
+      <g
+         id="g9105"
+         style="opacity:0.98999999;display:inline;filter:url(#filter8015)"
+         transform="translate(0,2387.6378)">
+        <rect
+           y="-2351.5964"
+           x="0"
+           height="70"
+           width="1220"
+           id="rect3803"
+           style="fill:#000012;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           style="fill:#000025;fill-opacity:1;stroke:none;display:inline"
+           id="rect2990"
+           width="1220"
+           height="35"
+           x="-0.12132025"
+           y="-2387.6377" />
+        <path
+           style="fill:none;stroke:#80b400;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 0,-2351.6378 1220,0"
+           id="path3797"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3801"
+           d="m -2.29e-5,-2280.0243 1220.0000229,0"
+           style="fill:none;stroke:#80b400;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           transform="matrix(0.57573593,0,0,0.57573593,162.12489,-2381.1525)"
+           d="m 180,15 c 0,2.761424 -2.23858,5 -5,5 -2.76142,0 -5,-2.238576 -5,-5 0,-2.761424 2.23858,-5 5,-5 2.76142,0 5,2.238576 5,5 z"
+           sodipodi:ry="5"
+           sodipodi:rx="5"
+           sodipodi:cy="15"
+           sodipodi:cx="175"
+           id="path4117"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           transform="matrix(0.57573593,0,0,0.57573593,392.12489,-2381.1525)"
+           d="m 180,15 c 0,2.761424 -2.23858,5 -5,5 -2.76142,0 -5,-2.238576 -5,-5 0,-2.761424 2.23858,-5 5,-5 2.76142,0 5,2.238576 5,5 z"
+           sodipodi:ry="5"
+           sodipodi:rx="5"
+           sodipodi:cy="15"
+           sodipodi:cx="175"
+           id="path4136"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path4145"
+           sodipodi:cx="175"
+           sodipodi:cy="15"
+           sodipodi:rx="5"
+           sodipodi:ry="5"
+           d="m 180,15 c 0,2.761424 -2.23858,5 -5,5 -2.76142,0 -5,-2.238576 -5,-5 0,-2.761424 2.23858,-5 5,-5 2.76142,0 5,2.238576 5,5 z"
+           transform="matrix(0.57573593,0,0,0.57573593,464.12489,-2381.1525)" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="901"
+           y="-2367.6377"
+           id="text4165"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4167"
+             x="901"
+             y="-2367.6377"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></text>
+        <g
+           id="g8203"
+           transform="translate(-22,0)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text3809"
+             y="-2368.3787"
+             x="111.85118"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             xml:space="preserve"><tspan
+               style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="-2368.3787"
+               x="111.85118"
+               id="tspan3811"
+               sodipodi:role="line">ru</tspan></text>
+          <g
+             id="g6552">
+            <g
+               id="g4110">
+              <path
+                 transform="matrix(0.57573593,0,0,0.57573593,84.124892,-2381.1525)"
+                 d="m 180,15 c 0,2.761424 -2.23858,5 -5,5 -2.76142,0 -5,-2.238576 -5,-5 0,-2.761424 2.23858,-5 5,-5 2.76142,0 5,2.238576 5,5 z"
+                 sodipodi:ry="5"
+                 sodipodi:rx="5"
+                 sodipodi:cy="15"
+                 sodipodi:cx="175"
+                 id="path4104"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none"
+                 sodipodi:type="arc" />
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text4106"
+                 y="-2366.6377"
+                 x="192"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 xml:space="preserve"><tspan
+                   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="-2366.6377"
+                   x="192"
+                   id="tspan4108"
+                   sodipodi:role="line">Правила</tspan></text>
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text4119"
+               y="-2366.6377"
+               x="270"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+               xml:space="preserve"><tspan
+                 style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                 y="-2366.6377"
+                 x="270"
+                 id="tspan4121"
+                 sodipodi:role="line">Политика безопасности</tspan></text>
+            <g
+               id="g4126"
+               transform="translate(260,0)">
+              <path
+                 sodipodi:type="arc"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none"
+                 id="path4128"
+                 sodipodi:cx="175"
+                 sodipodi:cy="15"
+                 sodipodi:rx="5"
+                 sodipodi:ry="5"
+                 d="m 180,15 c 0,2.761424 -2.23858,5 -5,5 -2.76142,0 -5,-2.238576 -5,-5 0,-2.761424 2.23858,-5 5,-5 2.76142,0 5,2.238576 5,5 z"
+                 transform="matrix(0.57573593,0,0,0.57573593,84.124892,-2381.1525)" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 x="192"
+                 y="-2366.6377"
+                 id="text4130"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   id="tspan4132"
+                   x="192"
+                   y="-2366.6377"
+                   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">FAQ</tspan></text>
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text4138"
+               y="-2366.6377"
+               x="500"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+               xml:space="preserve"><tspan
+                 style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                 y="-2366.6377"
+                 x="500"
+                 id="tspan4140"
+                 sodipodi:role="line">Помощь</tspan></text>
+          </g>
+          <g
+             id="g8198">
+            <rect
+               style="fill:url(#radialGradient10904);fill-opacity:1;stroke:none"
+               id="rect4147"
+               width="110"
+               height="30"
+               x="613.26416"
+               y="-2385.9595"
+               ry="2.9998953"
+               rx="2.9998953" />
+            <text
+               xml:space="preserve"
+               style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+               x="627.06396"
+               y="-2366.0308"
+               id="text4157"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4159"
+                 x="627.06396"
+                 y="-2366.0308"
+                 style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">Пополнить</tspan></text>
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text4161"
+             y="-2365.6377"
+             x="772"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="-2365.6377"
+               x="772"
+               id="tspan4163"
+               sodipodi:role="line">Вероника - в кабинет</tspan></text>
+          <g
+             id="g4209">
+            <rect
+               rx="2.9998953"
+               ry="2.9998953"
+               y="-2385.9595"
+               x="1041.2642"
+               height="30"
+               width="110"
+               id="rect4176"
+               style="fill:url(#radialGradient10906);fill-opacity:1;stroke:none" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4178"
+               y="-2366.3057"
+               x="1061.3716"
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Open Sans Bold"
+               xml:space="preserve"><tspan
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+                 y="-2366.3057"
+                 x="1061.3716"
+                 id="tspan4180"
+                 sodipodi:role="line">ВЫХОД</tspan></text>
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 108,-2375.6378 5,6 5,-6"
+           id="path8376"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+      </g>
+      <g
+         id="g9143"
+         style="display:inline">
+        <image
+           y="110"
+           x="0"
+           id="image3913"
+           xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACxARwDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDxGlFI
+BTlFdhiApaeIqf5L0ARUU4x0bKYriUU/bRtpWC4yipNlIRRYLjKKXFGKYxKKXFGKQCUUuKMUAJRS
+4oxQAlFLijFMBKKXZRigBKKXFGKQCUU/bRtosK4yin7aNtFguMpKl2UeVRYLkVFTeQ9HkvTGQU01
+KyUwikAykpxFJigB6rU8UdIq1Zi+T79aqJi5WLVvab60U0rfS2S11Wn26PTcA5jkH0h/7lVX0p0k
++5XqK6Mj/wAFNl8Pb4/uU42FdnmaaU/9ynvpWyP569Di8P8A7z7lJe6Unl7Nnz/w1pypk8zPM5bV
+6gNvXWT2FZ01rWn1e5LqWMIwUnkVqGGo2hqJULDjWuZvk0nk1omGmmGs/ZmnOUBFTzBVwRfvEqwY
+aqNC5MqyRk+TSGKtKSNE/wB+qxjqZU7FqVyuIqkEFSeVTxFSUQbIfIoa0fy96f8AAvb/AOtVpQ9W
+oZ9n30Vq15ItGXNJMyRDSiCukGl2t789lMy/L+8jkXOD/skdV+vNNbQ7hP44v1/woVAHWOe8ijyK
+2n010/ji/X/CoxbJ/G6/r/hWyw6MZV2Za2lKYP7laThfuJ/316//AFqngst/8FP6uhe3eyMqKyd6
+1IdFd/4K27DS/wB4j7KvXDf8u1ui7/4vl/zxWUqPY1VQ5ZtMR/kSmS6bsjrsFskSP5//ANZrG1Io
+lZeyNOc5K4hqu0FaW3fJvqOYIn/xX8/rQ6dgU7mW8eyoKtzMn9z/AIF3P+FVcVi0ap3LEbVeijR6
+z0NXYDs+5VxM5GzYb0krsdG++lcdZzJ8m/5a6jTWdJEdK16EnoFhb79ldPbaNFNB8/8AFXK6Rcfc
+rtrO6Ty031xVOZbG1O3Uy9T0tLaP91/F826uTngTzPn/APHq77Vpt8fyfw1xt7cxP8n3Xrpw7dtT
+OqlfQ5LWNP2fvkT5G/Q1zVzDXazTbPk+9F/EvYiqWoaZ/HavuRvm2t1/+vXoQlbc5ZI4SWOo8Vr3
+cL/cdNtZbpW3KpHO24si2UhjqSnKrv8AcSodItVSv5VXbuJIdn99l3L9PWpI7ZE+eX5tvzbf/r02
+/vrjU7t7i6dWlZQvyqBwBgDA44GBSUeVaFtqT1M0rSbKn2UbKw5DbnRBspwjqXZTsU1TE5kQjpwj
+qSitVTM5VB0LvayJNF99f84robe6ivYN6fK/8S+lc6BVq2jlSTen3/8APFa8isYe0bZauqzGj/eV
+qXCv/HSQWu+mmkgkm2V7Wy31v2WnVNp2nu8nyJXWzeGb/wDsZruyib/VEs3QgjAwB175yPQ1hUqx
+W5pGHY5HULlLX/Rrf5pW+Vvb/P8Anvh2n2eyPe/32pljp7pO7y/M/wDFurWc7I6mWmhcddShdybI
+/wDdrjNVuN8myuj1SfZG9cjMHeSlFCnLoQmXZHVSUu8jvVt4aqSlKzmy4JlVxUFTSF3qHbXHI7Ig
+hq/A1UVX/wBCqeMU4ikjdtdjx/7e4fl35/Kug013T7lchDM6bK6HT7nZs/z9a3RgmejaPcJ/wOul
+t7yvOba+rorO/qJU7lcx30MyXUGyuO8SWTw73StGyvv9ur1/Gl7af8BpQXJIUndHm1uZb2f7MiM0
+v8O3nNTMbi23wy/w/wB7+VXre7n8O64t7Aittyu1ucg8VqeJdX0m80eO+it2+2bt8+1ex6n8OK6n
+OXMlbQx87nI3Kpcx/vU/4F3/ADrEubH+5836Gt9Li3mg86J1ZGrPnH7yuiLIkkzKWxT+N/8AgK/4
+1KI9n3E21YK0Yq7kqCWxnXh/d7P71Uq3ZbCV/n2VWfTJf7lNNENSvoZdFXjpktMNi9KyBORUoq19
+lpRa07IPeKoFSJFVyOz31pWWiy3MmxNv+96UOSQlBvczYId8mxE3O1ai2j2v+/8Ay+lbNtbJp8ks
+MUMUjq21pGU5Pt14qX7H5330rNzNVGxgCDfWhaWDv8+z5P73QfnXUaboSOjXG1FgjYb5m6Lk4ya5
+TxrNdQ65Lo1rcK1vHj5oWzuyAeT2xWftOZ8qG1bVl3RtZtX1m3totzRbh5ki+mR0yMHvXq2pa3Za
+JYRW9iFaJsrtXkRjH/1xxXlfh3R00+Dzn/1rVZnuXmkf/wAd/CsatGNSSv0LhNxTt1Hzt+8f7v3v
+4eKzrmerLB/L+esu/u4ofufN/n1rSwjMvInm+d/ubttY888UP3Pmf/Perlw0s33/ALlUmiRPvpQx
+ehmymWaq7xbP8irklwnz/dWs2V3rnmzaCIZWqtmpvKeaTYn32qDFczZ1RRZRk/zxVqOP93v/ALq5
+bpnHQn9DWUkjpVpLx/40/wCBLwaEwaZqKn9z5n/i+nT+frWjb2UvlvMm3ZHt3dAcngADvWbbXsTx
+/O/zr93cv8iOla1rOk2zZC3yqVby+eACQRjvk1vFs55W6k1vcyps310unal+7RN/+fpWRbxW91Ok
+KOrfIEXbnJOfvHB685ya05dMe1/fJC3lc7ZFYEPj0Of0xXQpJ6MjlfQ6a1uf9ut6yvvk2P8ANXDw
+SP8AJs/u7l+lbFrfUShcjmL2s2PnR74vv1kWA3xvbXCVvLMk0dZkv7m7R3T5P71ON7WIued65Y3v
+hzUvtNk/7pm+7/D+VegeFNO0vxToaTfbY7e/3lGhk4HAzkH3o1nT/tti727/AD7T8y8HkYNcz4Zt
+ntp5bZ027WDL+FHK2m07FuS0uizc2eyR0T5trfw1UNu9Zmsrf6Tq0v2eZlRmLbeqnJz0NbXg7xCZ
+NS2ajYxXC+U+3axUhscGr9pbSwktLkUXmp9x/wDgPb8q0Ih53302/wAqua34l0OyvkSO3u1iZFb7
+qnkjnofWmaVqukazfRWkVx5cszYXzlKjPuegpe0HYrSWj/wJu/3earNaP/tVu6jPYaHPbvcX0CvM
+m+PbJnK5I5x7g1R/tfStTu4oYr6BXkYJ97AyT+lCmHKZv2LfUq6ZFVzW7O30PyvtGqQN5m7/AFMp
+bocHOP0rKi1XTXkSF7tmRmCt8rH9O9NTvsJom/0eGTZb/vH/AL38I/xrS08y+Yn9+m61Lo2jQI9r
+dtdy+a0e1Y9oIAHzAntnj8KxrXxFdTXaJa2yxvu+8zEkUX5kLY71dEnjtZbt02xR/wCskbAxn6/W
+uX1HxTa2sn2awT7Tcfd/2Qf61d8Y63ql5pP2aW4bYwSNlXhXA7kDg81jeF9C/efa7j/gK1EIyteY
+21eyNOObUrbSpXuLiVpbjHmKrYBx0XA/OqmiaM/n+dcffZt30rZ1EedIkKfcX7zVMjJbQf7dVzaa
+dSeVXC8k2R7E+X+GsozRJ9z5n/Skup3mk+d/kWqzSIlNIGxbmWX+PcqMuV7ZHTI9eh/KsaaRPMqx
+dXL/AMNZcopvQVyCe7/ef5xWVPcO/wDHV65VPM+/95tvfj1qrFD53+5/eb9P61jOaRcYNspGJ3/z
++JqNrZ037/4f8cDj8RWs8cSTvv8A3nlsWbavuf8ADr71nXF1F5n3FjReFVm6fTvXLJtnVFJFJ4v9
+j/gO3361Wx/nipbi6T+B2b/gOKqeb/sVgzZCbX/uU9RU6rv/AOA/4/8A16mVP49+7/e6/lTSE2Qp
+VqFtkn93/dqRbbf9xP5g49cVOljsk2O6/qcfXitYpkSaJbe8lSTf8sn+zIuQfr3rbsNXuPub2VPv
+bfMXAPHTcRg8Dvms+30V5o/3VzBv/utkf05qQ6TdQ/I6btq7vlYYx9f6da6qcujOaUFuvwOq06+R
+50+1Qsqbg+5sr1H+1xgn3/GtUNE8e+J/4vutwcYzx69/yrgYjLD8iOy7vvKrYB+vrW1YSXCRvNF5
+qpHjcytjGeBn6108q3Mby2Oytpf++Fwv3uec9uvb/OanlG+OuZtb7ZJ/e/2WyP5VsRXyP9//ABqH
+EybLMZ2fI+5agji2XyPs/wAaf5qeZv8A8/rVnyf3iOv+fXrUvQ1i7nM+LrdPkuUfa6/3uh/pWX4b
+nd9STeit127eAM9cCus1+z86xdNm75f85ri9Jg+zalE+xo0Zj9Mjrg1UXoNpmv4rsYvMimf92nCs
+23OAfYVkeHLeJ9Wi+f7rbvukV1WuRJc6T9xm+X+93rnfDEEqat86SrQnoDWpL4q09IXifev3SPzJ
+P+NZ+h2CTalF86tt+b6EHj+hrq/FMG+0+R2X5fzwQcGs3wtZ7JN+9m+Ubty9D3FCatcVnewniiyT
+y7f54l2qfmZuPWsfRLH7TqSfOuxWDV0fiuLfGnz/AHW/u1X8LWyJvd3b73930pp6XG1rYi8UQRQx
+26b/AF/h9ad4Tsonu3m2M21vlZlxx2pfFFxsni2TSr1X5fQ8H9DWn4bh8m03/N8396hv3RW94drk
+X2mdId+1P4vWtK2KWUGxPv8A9aqSq7z79lPYP9zfUPaxVhwffJvleq9/eIn+q/8AHuOe9Sy+VDGn
+zr/h9c/T9awdRvIkk++rdPlVs/yzTirgw3b/AOPbUsNtv+e481bdWHmMq849s8Z9qyk1Tyfkt4ZZ
+JWbb80YHXOABz29qz77V7140h2Ku75lZs8/99Hb+lOUrDir7I2JliTe+9d/Kr8xPp6Dr2/OqNxc2
+9lG7713twu6Rc49x1Hr07VhPq9x5aI+1tufvbiOf9nO3/wAd7VSaXzpERv4cJ8sYHGfQAZP6mueV
+QtU5F27v7d9m15Wf/d4H0yfr2qlLqbPG6IkS/wC0zZP0HOPwxUctncfwW87Ju+VmjIyOxwelVZLe
+VPv/ALv/AHuKwlJm0YLqNkuJXj/4+Pk/urkZ/AcVVylWBb75ERHXezbf8k8U1bdf4938qwd2bxsi
+rRVtkRP+WP8A31Td3+wtLlHcniKPHsd9tW/keP8AdOu9fw98fngVlR3LJ9zb/wB80/7Y39yL9R/W
+ndD17HRWtm97J+6mXzVUvtXBwBgDoeucfX0q6dMuE2I6K21h/q8M3fOce+D+Ncyuqt5aJ5MS/wC0
+uQeffNWYdbZE/wCPdd/97c24fjVqS7kNv+U6mLSXefZvl2fcbapYkkHI56HPBPbP5kv+hSIjzMyc
+bm24I46dOeP5isS28RNDH/qWbqu7z2yM9elSjXEePZLb+Z1ZWaU/Jk5P8P8AnNbRl5mMn/dNQbJv
+vzNv2/M3JGcZ6Y9Bj61sWi2/mI9x+8i27pPmCNxgHAPUg5HvXOQa8/2SW22Nsm27v3g529Afl/wq
+5Z62kMb/ALn52/i+Xv14298D8q6Yt9zGTt0f4HUFLXzNiI0afw7my3TPIPGTToYH/g/3uwwPoax4
+9cR43SVGZ2+gHJycjvVm311P40+Rcqu1f0+90rVKRlLlfRm4Ld0+eJ5d/wDF1GAPeiGC4/g/9CA/
+HOfrVGDxA/l7Nn/jv/16srq6eZvSFv8Av309/vc0mpEpRLk63XkP/f8A9rH+TXFv9vtdS3vD8m75
+f3Zwcn1zXcDWkf79p/jWXe6pa+Z8+nbv9rgf40o37Gi5e4kmoXH2H5bZd+33rO03W7p77zriGWR4
+1CbvLzsAGAMk+wA4/wDr3V1C38h/klX+Lbt4qnaatapP+9hlb+Hcy/rTt5Fad/zLuu6zKlpE/wBk
+/wDHj/hVXQded5PJTTl37v4WPJ+mK0LvXrdIP3Tz7OP4SO4z0FULPU7LzHfzmV9v8UbUktNg67ke
+teJNkif6CrbWDbdxwcHoRjkVe0fVopoHfyfL/i28YB54GO3Sm3/iKwm/cv8AMn93y8AfQBePwx3q
+1a6lYJafun+9833Tx+YpW8h6dzC1fWv3n2Z7RmSRhL/rByRkA/d9yK3LG+2QIn2ZV/4F/wDWqi01
+rc3e95mV/wDdb+grS/tGKGP/AFzfdK9wAccHAHNNryJfqU7i+uHk+RFVKqNeXT73/wC+vl/rSPex
+fxzbvm+ZfX9P6060vbBJ/wDSJvkX+6wH4cj6dR6/WqtboToyG7W9uoPuLs/2sdB6E81lCxf/AJa3
+O1F+b5VyfwzitltQ035PniZNp2ruXA5PUHjpx+XpVZ7nTftf+kTLJub7zSLj26EA985pczRSUH1M
+a4tnT7k0rJ/D82PYn/69USLfzNn2bzHb5dzSHPGR0zx071t3uoWsk8vk3dpHLuyszeXgkHOc54ye
+cgfnniLTtWsIbt5r2WO5bbtaSS5G45OWI9SST9Md65ZzbN4qHcpQaajyJ8ix7s7f3eQcHnk8dx0/
++tWvbW8unyS/uYNiqW3blI2rtJbg8DBB/OprHxJp0OyZ4bRvLwn2dp1+6ADjpggsCT9R6VFeeI7W
+5jSbZaKiqU+zrcjoVx0x07Hk/Xms25dik4LqUGiun3um5n3fd3A45IP3sDPAOPQjrWRf2bp/Grfw
+rJ5ee5zjPXr29a1pddgeDf8A6Nv37v8AX/N04AxyMcDg84HTFYy6havI8vk20b7GX5pSRyffrwAO
+fQ1m7lqUWU/Jd/kiSVtylO4ycgcDHPUfkamTTJfM/dbZPlDKytnnAPAzz1Byf1qSLV/Jk++rLyd0
+kpbBJyRz1FQ3F2vyOksC/wCyrHIycnnv6e1S7lKUSo0MqR738r5sbd2PxGM9OKz5I2L87eOKsyy+
+d9/av93a38+aZtQ8+av/AH1Uu5SaKeKcqVMqb6sJbvUFlYwOn30pVWtqSWXUPKSV/khQLH8uOB9K
+I9O3/wC/z+P0pDsZiCrEa/8AfH+zVpbLZ8jp67t2BzjPetXT7BPM2eSrf3V3cZ9SfarTE43M6G3/
+AHe/6/w1tWelLNJ87svy7vu9P8ite00j9xv2RebH95Vz8698E9OP5e+K2Le0SGOL7Qn+s+Vm6c5H
+qM8A1sptGfImY8OlRfwJu+X3x9auw2cSSfJbfIyhW+UevbPIPTp6471sQsnzpv3PG38WSxQcEHoB
+/wDWpJp7BI0dHZt3y7Y13E/iAQOw9uDW0azZMoxiruyKsViqR7Eh2v8A3l5z7f596vR6W7/3v++T
+/L1/wobU/wB4iJbL9370kgJH4Acn8R0q1HNqV1v/AH3yMu3btCjB+nP60niEt2YSnBbali105PuP
+u/nn0x+FWLnTLDyN7/K/8O5h/X8KbaaX+8++zP8A73+c1q2+hL/G6/pUOvHuTGo+kTl5dPRI/J3r
+s3Ft3Q84746cUsGlW/z/AL5f93joD/8AWrrJtKt/uJt/So10a3hrOeNjEtSfYwG0yJ49iTKzr91d
+yjPvntUT6R9igd9i/MpXczD8xj0/xroEsbdJN6Jtqd7SJ4PnRm/4EaweYxRXM3fQ4M6cj/3d+7+9
+6/8A6q0YdPi8t0+XZ/D8wJ+ldRbWtv8Ac2KtWH0uL76Irf7LLmtI4+MtCeZ22OPTSokkT/d/Ljj+
+VJeaUj7PKT72PlbGc9+nUZrq59NR49n3f+AjFY93pNxD/ArJ/s8fyroWKXcjn7xORudORJNjp8/4
+fjz2IqnLpVu/30/hH3c9/pXSvA/mb9/zr8u2TkY79MH+dV5Y7hI3+TzEXO1l2uQex+YcDkjHOM96
+PrcXpc1i4M5iXQ7XzH8rcyMx27s7sZ9M8HFZd5orp/qn+f8Ai9vbp/Ku0dbeGPZFM3m7SqxthSck
+BSAAMAnOce/1qO40uWbe7w7tq79qsMv0HHPpknBxx+cuszdU4PY8yudPlSqjWb/5WvR7uzdJ0Tyf
+L+QRKse3qM4Ygk88E/0FZ0mlvNH53kqqM/8Ad5Bx6DJPIxnnr+WDlcfszhGt3qF4nSu2u7C3feiI
+v7vG6ThSOSOPXnjn/DOfLoqfI6I2xlLfvFx0Gf6j86m5XJY5Ta9M8p/84rqms4kjTe/3v7vGeM8A
+dunp1FPl0yJPkTdvX5fu885OcevXpSsVY5BonSm4rdmstm/+4v8AF3PqBVd7RIY/9vn+dKwWMvFF
+WpIf9iovKqiC1t2fJ/Azfe/nV1E2bN+1tvy/e74xmqiN9z5N3T5avxmL7jo3lbfl7YyB1z9KbGi1
+5SvBFMiL5rbtvyke3X61qLCj7N9yzPC5X5VOMFu2OM4A4+tZQuIvLRLf5kVtyqq85IIPt1P6VoxS
+XFrs8qGCDd95d2efU47+9Kz6g6kUaUdpFNHs2bdzbmXdzk4x+BFQD7LZb3fyo/m3feGe3Xk5J5/O
+qSF/+Xq7aROFWNeAADkLnuPapjcReZ+6hiX/AHVH9azcorrf0JdV9F950NvqD/YUmtbf+I/M20YO
+ByCT7Ht3qRdauPLfzXVZWUKu35ymO+SOeABwPfqBWCJJX++9TRqiffrKWK7L9TFuXf7i353nR7HR
+rnc27dNzz/L9K0LeF32b32p/dXAFZaXCfwVcgnd/46554ib3Zjym5brEn3E/lW3Zt/f+X8q5uG5R
+P46tLfon8dYOUmLlO2trhEj/AP1VYN9v/wAiuHXVP+m1W7fUv43et43W47vZHZxyonz/AMf4VUvL
+z93/ABfpWE2q/wDTaqF1qm/+Oh+9uNydrI3xd/7bfpTxeJ/tfpXJrfP/AH6sLef33asJLUScrHSR
+XmyT/wDVWnDfp/nFcQb3/ptSrqez/ltW9KGguaSO7e5R/wDIqjcXyf5xXLnW/wDptVOfVd//AC2o
+qJ2L5mzfuHtZv8isK7jRPuVnPqDo/wB+ozqaP9964rSTENubnfG6S7ZUb5WVucisu5v/ACZEe1do
+33BW+bgr3+p+tWbpkm/jrInhf+CuinWlHZmi3ub9jrMSSP8AaLTz/l/dyMqtnHQdeD15wOtN1LVt
+Kffstmj2vs3RzbWfqQVDDkfiMdK5Rt6fc+WmfbJfuP8ANXRGvLqbe1ZvpDZXUiJb322X+GOSPa3Y
+dFyD0657UkulXsM6J5Kt5jfek+YAHgjJ6CsG9livbG3hSFY5Yd+5unmbjkZ+nIq5DfX9roUW+7l8
+1ZWi8ndk7cZDA9SOo9sV1RnF9S1JM0bmz/fuiPOqbRt+VdvHHA28dB3qtLpr2sHnfaf3S53fLhuT
+nC4+nNZy+IL+GR/nWTd/z2UkD8RVp/ENvqEf2a6tpVT+FoWHr/EG4H4mtGuxSZS8uJ/3LzK0rfdW
+PPBxwBj0PbocVQnsX+TbD/yyO5mwMd/X61ssllNBst7tWf70bSLtwcevQ8CqUlpKkb79zJvDrtbd
+654+poJMGeF/M3u67P8AZbJPpVchs8/0rQaKJPvp97727PHtVWWL94dkeF+tMCJNn8T/APfNSgp/
+H83+9WeHpwald9CGr7mol0qfcqRbl3rLU1OstYyuLY1Iz/fq7HKiViC5pwnf+/WLi2I3luUp4bf/
+AHmrESX+++3+dTfbv4E+VP5/Ws+RisbqGJPvvuf/AHuPz71Mt4n+Wrm/tlMa+f8Av0vZNhY6k6mi
+f/tUC/T/AC1ciLp/79Srcv8A36tU7CsdjFep/lquJqaf5auKW92fx077f/t1XK2HKds2rJ5f3P6/
+zqsdU/3v++q5F79/79NW9/26pUw5Trjqif5alGqJ5n/2Vceb5v4Hpgvv9uodIfKd0NV/d/8A2VQN
+qif3P6VyQvv9uke9/wButYwsLlOlbUv87qQ6ij//ALVcq95Uf2x0qZxuHKdd9tT/AC1QyXX+ea5w
+XtL9trn9kx2N8XqU8TxP9z7/APdb+nrXNtcU37XR7ELHQSMlUpRVAah/f+b/AGu//wBenG5pqm0F
+iRpKaLl0/wA8VA09QNLWiix2Lxuf7/8A47UP7ry/kqmZaaZ6tJoZNL5vmfI7N/epjSMn3HaP/db/
+AAqLz/8AbqNpq2UpFE5ubqaRP33mbf4do/XinfJ/cqn539yl+0vWlwuUhTwaZRTsBIGpwkqGilYC
+wHpwmqtmjNLlAs+fTvPqpmkzRyisWTPR5tVs0uaOUZZ86pFuNlUs0Zo5UBd+1P8A32pRcv8A36o5
+ozRygav2102fP/DR9ul/v1mFqbmnYDTN7L/faj7bL/faszNGaOUZqi9l/wCezf8AfVRzXbvs+f8A
+h/ve5rOzTi1Owix9of8Av0n2lv79Vs0lLlAtefS/aKqZozS5UBb+0UhmqtmjNHKgLHnUoneq9FHK
+BZ+0UhmqvS0cqAmMtNMlRUUcoEhamk0zNJTsAuaM0lGKYBSUUUALSUUUwFooopgBooooAKKKKAA0
+UUUgCiiimAUGiigAooooAKdRRQA2iiigAooopAFFFFADqbRRTAeKWiipASkoooAaaUUUUDHUlFFA
+j//Z
+"
+           height="630"
+           width="1220"
+           style="opacity:0.95" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="170.70264"
+           y="221.03618"
+           id="text3922"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3924"
+             x="170.70264"
+             y="221.03618" /></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7328"
+           y="418"
+           x="416"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="418"
+             x="416"
+             id="tspan7330"
+             sodipodi:role="line" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="566.07593"
+           y="701.37433"
+           id="text7722"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7724"
+             x="566.07593"
+             y="701.37433"
+             style="font-size:16px" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="566.07593"
+           y="699.81915"
+           id="text7726"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7728"
+             x="566.07593"
+             y="699.81915" /></text>
+      </g>
+      <g
+         id="g9167"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="150"
+           y="332"
+           id="text3948"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3950"
+             x="150"
+             y="332"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#80b400;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3952"
+           y="354"
+           x="150"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           xml:space="preserve"><tspan
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#80b400;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="354"
+             x="150"
+             id="tspan3954"
+             sodipodi:role="line" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="150"
+           y="374"
+           id="text3956"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3958"
+             x="150"
+             y="374"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#80b400;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></text>
+        <g
+           id="g8330"
+           transform="translate(-28,0)">
+          <rect
+             rx="12"
+             ry="14"
+             y="148"
+             x="112"
+             height="485.45584"
+             width="239.79999"
+             id="rect3916"
+             style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+          <g
+             transform="translate(4.592865,13.558403)"
+             id="g7948">
+            <g
+               id="g4008">
+              <g
+                 transform="translate(20,40)"
+                 id="g3998">
+                <text
+                   xml:space="preserve"
+                   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                   x="149.11328"
+                   y="172"
+                   id="text3918"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     id="tspan3920"
+                     x="149.11328"
+                     y="172"
+                     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Мои ставки</tspan></text>
+                <text
+                   xml:space="preserve"
+                   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                   x="149.4375"
+                   y="212.21696"
+                   id="text3930"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     id="tspan3932"
+                     x="149.4375"
+                     y="212.21696"
+                     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Мои рефералы</tspan></text>
+                <text
+                   xml:space="preserve"
+                   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                   x="149"
+                   y="253"
+                   id="text3934"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     id="tspan3936"
+                     x="149"
+                     y="253"
+                     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Моя реф. ссылка</tspan></text>
+                <text
+                   xml:space="preserve"
+                   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                   x="150"
+                   y="292"
+                   id="text3938"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     id="tspan3940"
+                     x="150"
+                     y="292"
+                     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Справка</tspan></text>
+              </g>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text3994"
+                 y="181"
+                 x="149"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Open Sans Bold"
+                 xml:space="preserve"><tspan
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="181"
+                   x="149"
+                   id="tspan3996"
+                   sodipodi:role="line">Ставки</tspan></text>
+            </g>
+            <g
+               id="g4056">
+              <g
+                 id="g4023"
+                 transform="translate(20,228)">
+                <text
+                   sodipodi:linespacing="125%"
+                   id="text4025"
+                   y="172"
+                   x="149.11328"
+                   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                   xml:space="preserve"><tspan
+                     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                     y="172"
+                     x="149.11328"
+                     id="tspan4027"
+                     sodipodi:role="line">Пополнить счет</tspan></text>
+                <text
+                   sodipodi:linespacing="125%"
+                   id="text4029"
+                   y="212.21696"
+                   x="149.4375"
+                   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                   xml:space="preserve"><tspan
+                     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                     y="212.21696"
+                     x="149.4375"
+                     id="tspan4031"
+                     sodipodi:role="line">Вывести деньги</tspan></text>
+                <text
+                   sodipodi:linespacing="125%"
+                   id="text4033"
+                   y="253"
+                   x="149"
+                   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                   xml:space="preserve"><tspan
+                     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                     y="253"
+                     x="149"
+                     id="tspan4035"
+                     sodipodi:role="line">История по счету</tspan></text>
+                <text
+                   sodipodi:linespacing="125%"
+                   id="text4037"
+                   y="292"
+                   x="150"
+                   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                   xml:space="preserve"><tspan
+                     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                     y="292"
+                     x="150"
+                     id="tspan4039"
+                     sodipodi:role="line" /></text>
+              </g>
+              <text
+                 xml:space="preserve"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Open Sans Bold"
+                 x="149"
+                 y="369"
+                 id="text4041"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   id="tspan4043"
+                   x="149"
+                   y="369"
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Мой счет</tspan></text>
+            </g>
+            <g
+               id="g4071"
+               transform="translate(20,374)">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text4073"
+                 y="172"
+                 x="149.11328"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 xml:space="preserve"><tspan
+                   style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="172"
+                   x="149.11328"
+                   id="tspan4075"
+                   sodipodi:role="line">Личные данные</tspan></text>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text4077"
+                 y="212.21696"
+                 x="149.4375"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 xml:space="preserve"><tspan
+                   style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="212.21696"
+                   x="149.4375"
+                   id="tspan4079"
+                   sodipodi:role="line">Рассылки</tspan></text>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text4081"
+                 y="253"
+                 x="149"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 xml:space="preserve"><tspan
+                   style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="253"
+                   x="149"
+                   id="tspan4083"
+                   sodipodi:role="line" /></text>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text4085"
+                 y="292"
+                 x="150"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 xml:space="preserve"><tspan
+                   style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="292"
+                   x="150"
+                   id="tspan4087"
+                   sodipodi:role="line" /></text>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Open Sans Bold"
+               x="149"
+               y="515"
+               id="text4089"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4091"
+                 x="149"
+                 y="515"
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Настройки</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g9569"
+         style="display:inline">
+        <rect
+           style="fill:#333337;fill-opacity:1;stroke:none;display:inline"
+           id="rect7199"
+           width="83.650558"
+           height="43.001308"
+           x="825"
+           y="182"
+           ry="20"
+           rx="20" />
+        <rect
+           style="fill:#333337;fill-opacity:1;stroke:none;display:inline"
+           id="rect7154"
+           width="177.67146"
+           height="43.001308"
+           x="360"
+           y="180"
+           ry="20"
+           rx="20" />
+        <rect
+           rx="20"
+           ry="20"
+           y="180"
+           x="549.90375"
+           height="43.001308"
+           width="260.49265"
+           id="rect7175"
+           style="fill:#333337;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           rx="20"
+           ry="20"
+           y="180"
+           x="960"
+           height="43.001308"
+           width="177.67146"
+           id="rect7191"
+           style="fill:url(#linearGradient10908);fill-opacity:1;stroke:none;display:inline" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text7193"
+           y="208.54167"
+           x="1003.3426"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Play;-inkscape-font-specification:Play"
+           xml:space="preserve"><tspan
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="208.54167"
+             x="1003.3426"
+             id="tspan7195"
+             sodipodi:role="line">Показать</tspan></text>
+        <g
+           style="display:inline"
+           id="g7247"
+           transform="translate(-20,0)">
+          <rect
+             rx="8.6633301"
+             ry="17.208664"
+             y="242.79134"
+             x="378.60919"
+             height="43.001308"
+             width="780.05408"
+             id="rect7234"
+             style="fill:#333333;fill-opacity:1;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text7236"
+             y="270"
+             x="416"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="270"
+               x="416"
+               id="tspan7238"
+               sodipodi:role="line">Розыгрыш № 106643</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text7243"
+             y="269.02832"
+             x="718.19678"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a19900;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a19900;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="269.02832"
+               x="718.19678"
+               id="tspan7245"
+               sodipodi:role="line">Выигрыш!</tspan></text>
+        </g>
+        <rect
+           rx="4.6231689"
+           ry="8.6539917"
+           y="301.34601"
+           x="360.9726"
+           height="39.1525"
+           width="83.650558"
+           id="rect7273"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="rect7282"
+           width="83.650558"
+           height="35.303692"
+           x="360.9726"
+           y="345.34601"
+           ry="8.6539917"
+           rx="4.6231689" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="459.54791"
+           y="326.26535"
+           id="text7284"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7286"
+             x="459.54791"
+             y="326.26535">Ваша ставка</tspan><tspan
+             sodipodi:role="line"
+             x="459.54791"
+             y="362.50055"
+             id="tspan7290"
+             style="font-size:32px">  4698</tspan></text>
+        <g
+           style="display:inline"
+           id="g7652"
+           transform="translate(-20,0)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text7294"
+             y="317.80832"
+             x="751.76978"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             xml:space="preserve"><tspan
+               style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="317.80832"
+               x="751.76978"
+               id="tspan7296"
+               sodipodi:role="line">ПСЖ - Челси</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text7298"
+             y="338.90778"
+             x="612.14136"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               id="tspan7501"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="338.90778"
+               x="612.14136"
+               sodipodi:role="line">Футбольный клуб «Че́лси» (англ. Chelsea F.C.; англ.</tspan><tspan
+               id="tspan7503"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="359.15839"
+               x="612.14136"
+               sodipodi:role="line">произношение: [ˈtʃɛlsiː]) — профессиональный англ.</tspan><tspan
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="379.15839"
+               x="612.14136"
+               sodipodi:role="line"
+               id="tspan7555">футбольный клуб из западного Лондона. Основан. </tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7304"
+           y="326.26535"
+           x="1029.5479"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             y="326.26535"
+             x="1029.5479"
+             id="tspan7306"
+             sodipodi:role="line">Ваша ставка</tspan><tspan
+             style="font-size:32px"
+             id="tspan7308"
+             y="362.50055"
+             x="1029.5479"
+             sodipodi:role="line">  4698</tspan></text>
+        <g
+           style="display:inline"
+           id="g7371"
+           transform="translate(-20,0)">
+          <rect
+             style="fill:#333333;fill-opacity:1;stroke:none"
+             id="rect7326"
+             width="780.05408"
+             height="43.001308"
+             x="378.60919"
+             y="390.79132"
+             ry="17.208664"
+             rx="8.6633301" />
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a19900;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="394.19678"
+             y="417.02832"
+             id="text7332"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan7334"
+               x="394.19678"
+               y="417.02832"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a19900;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Дополнительно: Реферад username</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text7336"
+             y="415.93573"
+             x="711.27374"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a19900;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a19900;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="415.93573"
+               x="711.27374"
+               id="tspan7338"
+               sodipodi:role="line">подробности розыгрыша</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a19900;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="959.27374"
+             y="415.93573"
+             id="text7340"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan7342"
+               x="959.27374"
+               y="415.93573"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a19900;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Сумма выиграша: 500 $</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g7349"
+           transform="translate(-20,-20)">
+          <rect
+             style="fill:#333333;fill-opacity:1;stroke:none"
+             id="rect7256"
+             width="780.05408"
+             height="43.001308"
+             x="378.60919"
+             y="464.79132"
+             ry="15.208679"
+             rx="8.6633301" />
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="416"
+             y="492"
+             id="text7258"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan7260"
+               x="416"
+               y="492"
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Розыгрыш № 106644</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a19900;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="727.51318"
+             y="491.02829"
+             id="text7262"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan7264"
+               x="727.51318"
+               y="491.02829"
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a19900;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Неудача</tspan></text>
+        </g>
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+           id="rect7421"
+           width="83.650558"
+           height="39.1525"
+           x="360.9726"
+           y="501.34601"
+           ry="8.6539917"
+           rx="4.6231689" />
+        <rect
+           rx="4.6231689"
+           ry="8.6539917"
+           y="545.34601"
+           x="360.9726"
+           height="35.303692"
+           width="83.650558"
+           id="rect7423"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text7425"
+           y="526.26538"
+           x="459.54791"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             y="526.26538"
+             x="459.54791"
+             id="tspan7427"
+             sodipodi:role="line">Ваша ставка</tspan><tspan
+             style="font-size:32px"
+             id="tspan7429"
+             y="562.50061"
+             x="459.54791"
+             sodipodi:role="line">  2500</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="1029.5479"
+           y="526.26538"
+           id="text7439"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7441"
+             x="1029.5479"
+             y="526.26538">Ваша ставка</tspan><tspan
+             sodipodi:role="line"
+             x="1029.5479"
+             y="562.50061"
+             id="tspan7443"
+             style="font-size:32px">  2500</tspan></text>
+        <rect
+           style="fill:#333333;fill-opacity:1;stroke:none;display:inline"
+           id="rect7447"
+           width="780.05408"
+           height="43.001308"
+           x="358.60919"
+           y="590.79132"
+           ry="17.208664"
+           rx="8.6633301" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a19900;fill-opacity:1;stroke:none;display:inline;font-family:Play;-inkscape-font-specification:Play"
+           x="374.19678"
+           y="617.02832"
+           id="text7449"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7451"
+             x="374.19678"
+             y="617.02832"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a19900;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Дополнительно: Реферад username</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7453"
+           y="615.93573"
+           x="691.27374"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a19900;fill-opacity:1;stroke:none;display:inline;font-family:Play;-inkscape-font-specification:Play"
+           xml:space="preserve"><tspan
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a19900;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="615.93573"
+             x="691.27374"
+             id="tspan7455"
+             sodipodi:role="line">подробности розыгрыша</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a19900;fill-opacity:1;stroke:none;display:inline;font-family:Play;-inkscape-font-specification:Play"
+           x="939.27374"
+           y="615.93573"
+           id="text7457"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7459"
+             x="939.27374"
+             y="615.93573"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a19900;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Сумма выиграша: 500 $</tspan></text>
+        <g
+           style="display:inline"
+           id="g7622"
+           transform="translate(-29.06962,-1.9073486e-6)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text7156"
+             y="208.54167"
+             x="417.04373"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="208.54167"
+               x="417.04373"
+               id="tspan7158"
+               sodipodi:role="line">Все ставки</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path7600"
+             d="m 525.05153,200.41237 11.75255,0 -5.87627,5.87628 z"
+             style="fill:#ffffff;stroke:none" />
+        </g>
+        <g
+           style="display:inline"
+           id="g7617"
+           transform="translate(-29.583612,-1.9073486e-6)">
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="593.39081"
+             y="207.20866"
+             id="text7177"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan7179"
+               x="593.39081"
+               y="207.20866"
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">За последние 30 дней</tspan></text>
+          <path
+             style="fill:#ffffff;stroke:none"
+             d="m 813.05153,200.41237 11.75255,0 -5.87627,5.87628 z"
+             id="path7602"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="display:inline"
+           id="g7660"
+           transform="translate(-20,198)">
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             x="751.76978"
+             y="317.80832"
+             id="text7662"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan7664"
+               x="751.76978"
+               y="317.80832"
+               style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">ПСЖ - Челси</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="612.14136"
+             y="338.90778"
+             id="text7666"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="612.14136"
+               y="338.90778"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               id="tspan7668">Футбольный клуб «Че́лси» (англ. Chelsea F.C.; англ.</tspan><tspan
+               sodipodi:role="line"
+               x="612.14136"
+               y="359.15839"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               id="tspan7670">произношение: [ˈtʃɛlsiː]) — профессиональный англ.</tspan><tspan
+               id="tspan7672"
+               sodipodi:role="line"
+               x="612.14136"
+               y="379.15839"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">футбольный клуб из западного Лондона. Основан. </tspan></text>
+        </g>
+        <g
+           id="g7985"
+           transform="translate(-20,-28)">
+          <g
+             id="g7913">
+            <rect
+               style="fill:#999999;fill-opacity:1;stroke:none"
+               id="rect7675"
+               width="30.318859"
+               height="30.705847"
+               x="609.82678"
+               y="690.00122"
+               rx="10"
+               ry="10" />
+            <text
+               xml:space="preserve"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+               x="616.98621"
+               y="710.33014"
+               id="text7693"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan7695"
+                 x="616.98621"
+                 y="710.33014"
+                 style="font-size:16px">&lt;&lt;</tspan></text>
+          </g>
+          <g
+             id="g7943">
+            <rect
+               style="fill:#999999;fill-opacity:1;stroke:none"
+               id="rect7911"
+               width="30.318859"
+               height="30.705847"
+               x="849.82678"
+               y="690.00122"
+               rx="10"
+               ry="10" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text7706"
+               y="710.33014"
+               x="-872.98621"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+               xml:space="preserve"
+               transform="scale(-1,1)"><tspan
+                 style="font-size:16px"
+                 y="710.33014"
+                 x="-872.98621"
+                 id="tspan7708"
+                 sodipodi:role="line">&lt;&lt;</tspan></text>
+          </g>
+          <g
+             id="g7918">
+            <rect
+               ry="10"
+               rx="10"
+               y="690.00122"
+               x="649.82678"
+               height="30.705847"
+               width="30.318859"
+               id="rect7901"
+               style="fill:#999999;fill-opacity:1;stroke:none" />
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               x="661.45886"
+               y="711.06506"
+               id="text7718"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan7720"
+                 x="661.45886"
+                 y="711.06506">1</tspan></text>
+          </g>
+          <g
+             id="g7923">
+            <rect
+               style="fill:#999999;fill-opacity:1;stroke:none"
+               id="rect7903"
+               width="30.318859"
+               height="30.705847"
+               x="689.82678"
+               y="690.00122"
+               rx="10"
+               ry="10" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text7730"
+               y="711.14709"
+               x="700.45105"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               xml:space="preserve"><tspan
+                 y="711.14709"
+                 x="700.45105"
+                 id="tspan7732"
+                 sodipodi:role="line">2</tspan></text>
+          </g>
+          <g
+             id="g7933">
+            <rect
+               style="fill:#999999;fill-opacity:1;stroke:none"
+               id="rect7907"
+               width="30.318859"
+               height="30.705847"
+               x="769.82678"
+               y="690.00122"
+               rx="10"
+               ry="10" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text7746"
+               y="711.09631"
+               x="780.40417"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               xml:space="preserve"><tspan
+                 y="711.09631"
+                 x="780.40417"
+                 id="tspan7748"
+                 sodipodi:role="line">4</tspan></text>
+          </g>
+          <g
+             id="g7938">
+            <rect
+               ry="10"
+               rx="10"
+               y="690.00122"
+               x="809.82678"
+               height="30.705847"
+               width="30.318859"
+               id="rect7909"
+               style="fill:#999999;fill-opacity:1;stroke:none" />
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               x="820.35339"
+               y="710.98694"
+               id="text7750"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan7752"
+                 x="820.35339"
+                 y="710.98694">5</tspan></text>
+          </g>
+          <g
+             id="g7928">
+            <rect
+               ry="10"
+               rx="10"
+               y="690.00122"
+               x="729.82678"
+               height="30.705847"
+               width="30.318859"
+               id="rect7905"
+               style="fill:#999999;fill-opacity:1;stroke:none" />
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               x="740.51355"
+               y="711.06897"
+               id="text7742"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan7744"
+                 x="740.51355"
+                 y="711.06897">3</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g7024"
+           transform="translate(-20,-18)">
+          <text
+             xml:space="preserve"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="377.87759"
+             y="178.07422"
+             id="text6937"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan6939"
+               x="377.87759"
+               y="178.07422"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">главная </tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text6943"
+             y="178.10059"
+             x="467.87759"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="178.10059"
+               x="467.87759"
+               id="tspan6945"
+               sodipodi:role="line"><tspan
+                 id="tspan7022"
+                 style="font-size:16px">аноносы </tspan></tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text7000"
+             y="177.58514"
+             x="449.75415"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="fill:#ffffff"
+               y="177.58514"
+               x="449.75415"
+               id="tspan7002"
+               sodipodi:role="line">&gt;&gt;</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g7609"
+           transform="translate(-24.578744,1.9999981)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text7201"
+             y="208.65398"
+             x="859.0274"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="208.65398"
+               x="859.0274"
+               id="tspan7203"
+               sodipodi:role="line">2015</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path7604"
+             d="m 911.05153,200.41237 11.75255,0 -5.87627,5.87628 z"
+             style="fill:#ffffff;stroke:none" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="371.15335"
+           y="326.60977"
+           id="text9553"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan9555"
+             x="371.15335"
+             y="326.60977"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">21.05.15</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="375.49319"
+           y="367.30255"
+           id="text9557"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan9559"
+             x="375.49319"
+             y="367.30255"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">24 ДНЯ</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text9561"
+           y="526.60974"
+           x="371.15335"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           xml:space="preserve"><tspan
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="526.60974"
+             x="371.15335"
+             id="tspan9563"
+             sodipodi:role="line">29.05.15</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text9565"
+           y="567.30255"
+           x="375.49319"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           xml:space="preserve"><tspan
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="567.30255"
+             x="375.49319"
+             id="tspan9567"
+             sodipodi:role="line">24 ДНЯ</tspan></text>
+      </g>
+      <g
+         id="g9737"
+         style="display:inline">
+        <rect
+           style="fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline"
+           id="rect8021"
+           width="1220"
+           height="600"
+           x="0"
+           y="740"
+           rx="0"
+           ry="0" />
+        <g
+           style="display:inline"
+           id="g8590"
+           transform="translate(-24,0)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text8023"
+             y="761.62164"
+             x="113.52187"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="761.62164"
+               x="113.52187"
+               id="tspan8025"
+               sodipodi:role="line">&gt; Cделать ставку</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="113.52187"
+             y="781.62164"
+             id="text8027"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan8029"
+               x="113.52187"
+               y="781.62164"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">&gt; Результаты матчей</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text8031"
+             y="801.62164"
+             x="113.52187"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="801.62164"
+               x="113.52187"
+               id="tspan8033"
+               sodipodi:role="line">&gt; Правила</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="113.52187"
+             y="823.62164"
+             id="text8035"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan8037"
+               x="113.52187"
+               y="823.62164"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">&gt; Анонсы матчей</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text8039"
+             y="845.62164"
+             x="113.52187"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="845.62164"
+               x="113.52187"
+               id="tspan8041"
+               sodipodi:role="line">&gt; Новости проекта</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             x="113.52187"
+             y="867.62164"
+             id="text8043"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan8045"
+               x="113.52187"
+               y="867.62164"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">&gt; Реферальная система</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text8047"
+             y="891.62164"
+             x="113.52187"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="891.62164"
+               x="113.52187"
+               id="tspan8049"
+               sodipodi:role="line">&gt; Благотворительность</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g8606"
+           transform="translate(-24,0)">
+          <flowRoot
+             transform="translate(-6,0)"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             id="flowRoot8075"
+             xml:space="preserve"><flowRegion
+               id="flowRegion8077"><rect
+                 style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                 y="942.49884"
+                 x="123.03658"
+                 height="321.02649"
+                 width="1056.4175"
+                 id="rect8079" /></flowRegion><flowPara
+               id="flowPara8089">          Жозе Моуринью считает, что в случае чемпионства его команды в Премьер-лиге это будет полностью заслуженная победа, учитывая нашу впечатляющую форму с самого начала сезона. После воскресной нулевой ничьей с &quot;Арсеналом&quot; &quot;синим&quot; нужно еще две победы в оставшихся матчах, чтобы гарантированно завершить кампанию на первом месте впервые с 2010 года. Мы лидировали с первых матчей и потерпели два поражения, последнее в Новый год, и Моуринью считает, что его команда более чем заслуживает чемпионства.</flowPara><flowPara
+               id="flowPara8091" /><flowPara
+               id="flowPara8097">          &quot;Думаете, в английской Премьер-лиге есть тренер, который скажет, что &quot;Челси&quot; не заслуживает быть чемпионом? — спрашивает тренер &quot;синих&quot; один прекрасный день мы победим, просто спросите каждого тренера о его мнении: просто да или нет. Каждый волен сказать «да» или «нет». Это же просто мнение. Думаю, из 19-ти тренеров процент согласных с тем, что &quot;Челси&quot; заслужил победу в АПЛ, будет очень высок&quot;. &quot;Это  вопрос критериев. </flowPara><flowPara
+               id="flowPara8167">Кто забил самые красивые мячи в АПЛ? Это подходящий критерий? Если да, то тут &quot;Челси&quot; отличился всей командой. Или же лавры достанутся Чарли Адаму, а это определенно лучший гол сезона. Если критерий — это число голов, то &quot;Ман Сити&quot; забил больше нас, но еще 18 команд забили меньше&quot;.</flowPara></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot8111"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             transform="translate(-5.03125,177.76479)"><flowRegion
+               id="flowRegion8113"><rect
+                 id="rect8115"
+                 width="1056.4175"
+                 height="321.02649"
+                 x="123.03658"
+                 y="942.49884"
+                 style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+               id="flowPara8117"> Жозе Моуринью считает, что в случае чемпионства его команды в Премьер-лиге это будет полностью заслуженная победа, учитывая нашу впечатляющую форму с самого начала сезона. После воскресной нулевой ничьей с &quot;Арсеналом&quot; &quot;синим&quot; нужно еще две победы в оставшихся матчах, чтобы гарантированно завершить кампанию на первом месте впервые с 2010 года. Мы лидировали с первых матчей и потерпели два поражения, последнее в Новый год, и Моуринью считает, что его команда более чем заслуживает чемпионства.</flowPara><flowPara
+               id="flowPara8133" /><flowPara
+               id="flowPara8135" /><flowPara
+               id="flowPara8137" /></flowRoot>        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="92.371094"
+           y="1228.5131"
+           id="text8173"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan8175"
+             x="92.371094"
+             y="1228.5131"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Mikost - развлекательный портал спортивной тематики.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="93"
+           y="1249.5"
+           id="text8185"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan8187"
+             x="93"
+             y="1249.5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Mikost 2015 Все права защищены</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Play;-inkscape-font-specification:Play"
+           x="804"
+           y="1231"
+           id="text8194"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan8196"
+             x="804"
+             y="1231"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Разработано студией Webs Gears при поддержке MTITM</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="1069.9077"
+           y="891.68768"
+           id="text8053"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan8055"
+             x="1069.9077"
+             y="891.68768"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Карта сайта</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="456.83261"
+           y="800.83484"
+           id="text9733"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan9735"
+             x="456.83261"
+             y="800.83484"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">место для размещения лицензий или других объектов</tspan></text>
+      </g>
+      <g
+         id="g9371"
+         style="display:inline">
+        <g
+           id="g8265"
+           transform="translate(-42,0)">
+          <g
+             id="g8234"
+             style="display:inline">
+            <rect
+               rx="12"
+               ry="14"
+               y="55.285625"
+               x="370.32019"
+               height="30"
+               width="490"
+               id="rect6532"
+               style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline" />
+            <rect
+               style="fill:#373937;fill-opacity:1;stroke:none"
+               id="rect6913"
+               width="80.467682"
+               height="30"
+               x="467.49585"
+               y="55.492542"
+               rx="0"
+               ry="0" />
+            <g
+               id="g6885"
+               transform="translate(0,4)">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text6850"
+                 y="70.622543"
+                 x="378.65634"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 xml:space="preserve"><tspan
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="70.622543"
+                   x="378.65634"
+                   id="tspan6852"
+                   sodipodi:role="line">Главная </tspan></text>
+              <path
+                 transform="translate(-36,1.2856217)"
+                 d="m 500,65 c 0,2.761424 -2.23858,5 -5,5 -2.76142,0 -5,-2.238576 -5,-5 0,-2.761424 2.23858,-5 5,-5 2.76142,0 5,2.238576 5,5 z"
+                 sodipodi:ry="5"
+                 sodipodi:rx="5"
+                 sodipodi:cy="65"
+                 sodipodi:cx="495"
+                 id="path6854"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none"
+                 sodipodi:type="arc" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 x="468.65634"
+                 y="70.648911"
+                 id="text6863"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   id="tspan6865"
+                   x="468.65634"
+                   y="70.648911"
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Аноносы </tspan></text>
+              <path
+                 sodipodi:type="arc"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none"
+                 id="path6867"
+                 sodipodi:cx="495"
+                 sodipodi:cy="65"
+                 sodipodi:rx="5"
+                 sodipodi:ry="5"
+                 d="m 500,65 c 0,2.761424 -2.23858,5 -5,5 -2.76142,0 -5,-2.238576 -5,-5 0,-2.761424 2.23858,-5 5,-5 2.76142,0 5,2.238576 5,5 z"
+                 transform="translate(60,1.2856255)" />
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text6872"
+                 y="70.926254"
+                 x="567.96631"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 xml:space="preserve"><tspan
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="70.926254"
+                   x="567.96631"
+                   id="tspan6874"
+                   sodipodi:role="line">Результаты матчей</tspan></text>
+              <path
+                 transform="translate(250,1.2856255)"
+                 d="m 500,65 c 0,2.761424 -2.23858,5 -5,5 -2.76142,0 -5,-2.238576 -5,-5 0,-2.761424 2.23858,-5 5,-5 2.76142,0 5,2.238576 5,5 z"
+                 sodipodi:ry="5"
+                 sodipodi:rx="5"
+                 sodipodi:cy="65"
+                 sodipodi:cx="495"
+                 id="path6876"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none"
+                 sodipodi:type="arc" />
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text6878"
+                 y="70.548325"
+                 x="754.77875"
+                 style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+                 xml:space="preserve"><tspan
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+                   y="70.548325"
+                   x="754.77875"
+                   id="tspan6880"
+                   sodipodi:role="line">Как играть</tspan></text>
+            </g>
+          </g>
+          <g
+             inkscape:label="Layer 1"
+             id="layer1-6"
+             transform="matrix(0.78932939,0,0,0.78932939,149.02041,-728.57074)">
+            <path
+               sodipodi:nodetypes="ccccccc"
+               inkscape:connector-curvature="0"
+               id="path5593-8"
+               d="m 105,984.36218 -90,20.00002 0,20 90,20 90,-20 0,-20 z"
+               style="fill:none;stroke:#ddcc15;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <path
+               sodipodi:nodetypes="ccc"
+               inkscape:connector-curvature="0"
+               id="path5599-5"
+               d="m 111.79742,997.47714 c -0.53755,23.71206 -3.17016,21.98916 -5.46832,26.74126 4.26555,-3.0741 2.3794,-4.1627 24.61943,-10.6716"
+               style="fill:none;stroke:#80b400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5605-4"
+               d="m 134.61207,979.75956 9.19253,7.71345"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5607-2"
+               d="m 130.38557,980.12933 14.55484,12.21296"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5609-3"
+               d="m 126.94294,981.12065 17.61902,14.78411"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5611-6"
+               d="m 124.23071,982.79723 19.15111,16.06969"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5613-2"
+               d="m 121.5363,984.45258 19.91716,16.71252"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5615-7"
+               d="m 119.60794,986.75071 20.6832,17.35529"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5617-6"
+               d="m 117.67958,989.04885 20.6832,17.35525"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5619-0"
+               d="m 115.75121,991.34698 19.91716,16.71252"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5621-6"
+               d="m 115.35494,994.93069 17.61902,14.78411"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5623-3"
+               d="m 114.19262,997.87161 16.08694,13.49849"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5625-5"
+               d="m 113.79635,1001.4553 13.02275,10.9274"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5627-0"
+               d="M 128.97674,980.25259 112.90705,999.4037"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5629-3"
+               d="M 133.84602,979.11677 113.9196,1002.8641"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5631-9"
+               d="m 137.42973,979.51305 -22.49757,26.81155"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5633-6"
+               d="M 140.37065,980.67536 116.58751,1009.019"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5635-8"
+               d="m 142.66878,982.60373 -23.78314,28.34367"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5637-9"
+               d="m 144.96692,984.53209 -23.14036,27.57761"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5639-4"
+               d="M 144.6939,989.52463 124.76748,1013.272"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5641-5"
+               d="m 144.42088,994.51717 -15.4269,18.38503"
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5643-2"
+               d="m 141.32129,1005.4686 c -6.83934,8.1508 -17.60009,10.3812 -24.03492,4.9817 -6.43482,-5.3994 -6.10698,-16.38402 0.73236,-24.53483 6.83933,-8.15079 17.60015,-10.38117 24.03497,-4.98172 6.43483,5.39946 6.10691,16.3841 -0.73241,24.53485 z"
+               style="fill:none;stroke:#80b400;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               inkscape:connector-curvature="0"
+               id="path5645-4"
+               d="m 107.06895,1021.9185 1.53209,1.2856 -18.394328,25.0329 -4.596267,-3.8567 z"
+               style="fill:#80b400;fill-opacity:1;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 78.9844,1013.7669 c 23.25845,4.6469 21.10458,6.9404 25.38548,10.0288 -2.28677,-4.7345 -3.68633,-3.0661 -6.234369,-26.09849"
+               id="path5649-2"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 65.497713,988.22221 9.192533,-7.71345"
+               id="path5655-1"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 65.127942,992.4487 79.682787,980.23574"
+               id="path5657-1"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 65.506394,996.0112 83.125416,981.22709"
+               id="path5659-6"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 66.686535,998.97333 85.837646,982.90364"
+               id="path5661-1"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 67.848853,1001.9143 87.766009,985.20178"
+               id="path5663-6"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 69.777216,1004.2124 20.6832,-17.35528"
+               id="path5665-2"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 71.705579,1006.5105 20.6832,-17.35524"
+               id="path5667-9"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 73.633942,1008.8087 93.551097,992.09618"
+               id="path5669-5"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 77.094393,1009.8212 94.713415,995.0371"
+               id="path5671-9"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 79.788801,1011.4766 95.875734,997.97802"
+               id="path5673-6"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 83.249252,1012.4891 13.022756,-10.9274"
+               id="path5675-9"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 65.004686,993.85754 16.06969,19.15106"
+               id="path5677-4"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 64.731668,988.865 19.926416,23.7474"
+               id="path5679-2"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 65.744227,985.40454 22.497566,26.81156"
+               id="path5681-3"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 67.399572,982.71014 23.783142,28.34366"
+               id="path5683-1"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 69.697706,980.78177 23.783141,28.34363"
+               id="path5685-0"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 71.995839,978.85341 95.136193,1006.431"
+               id="path5687-3"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 76.865123,979.98923 19.926416,23.74737"
+               id="path5689-0"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 81.734406,981.12504 15.426903,18.38507"
+               id="path5691-3"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#80b400;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 91.981258,986.07928 c 6.839344,8.15081 7.167195,19.13542 0.732368,24.53482 -6.434819,5.3995 -17.195583,3.1692 -24.034927,-4.9817 -6.839324,-8.15074 -7.167225,-19.13539 -0.732406,-24.53485 6.434827,-5.39946 17.19564,-3.16906 24.034965,4.98173 z"
+               id="path5693-8"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:#80b400;fill-opacity:1;stroke:#80b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 102.23336,1022.6678 1.53209,-1.2856 21.4585,22.4618 -4.59626,3.8567 z"
+               id="path5695-2"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text5697-8"
+               y="1024.3768"
+               x="49.895508"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ddcc15;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+               xml:space="preserve"><tspan
+                 style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ddcc15;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+                 y="1024.3768"
+                 x="49.895508"
+                 id="tspan5699-7"
+                 sodipodi:role="line">MIKOST</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g9154">
+        <path
+           style="fill:none;stroke:#80b400;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 0,740 1220,0"
+           id="path8019"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot8067"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"><flowRegion
+             id="flowRegion8069"><rect
+               id="rect8071"
+               width="1021.0622"
+               height="319.61227"
+               x="121.62237"
+               y="941.08466" /></flowRegion><flowPara
+             id="flowPara8073"></flowPara></flowRoot>        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           x="118.08683"
+           y="1037.2512"
+           id="text8163"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan8165"
+             x="118.08683"
+             y="1037.2512">           </tspan></text>
+        <g
+           id="g8189"
+           transform="translate(2,0)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text8177"
+             y="1248.3217"
+             x="119.51413"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+               y="1248.3217"
+               x="119.51413"
+               id="tspan8179"
+               sodipodi:role="line">с</tspan></text>
+          <path
+             transform="matrix(0.43274557,0,0,0.64590061,-18.13404,418.35791)"
+             d="m 340,1280 c 0,5.5228 -6.71573,10 -15,10 -8.28427,0 -15,-4.4772 -15,-10 0,-5.5228 6.71573,-10 15,-10 8.28427,0 15,4.4772 15,10 z"
+             sodipodi:ry="10"
+             sodipodi:rx="15"
+             sodipodi:cy="1280"
+             sodipodi:cx="325"
+             id="path8183"
+             style="fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
